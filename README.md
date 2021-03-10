@@ -4,4 +4,4 @@
 > Добавьте изображениям, по которым кликнул пользователь, класс **bordered** 
 > в оформлении которого содержится граница и тень.
 
-Demo - https://omarov-frontend.github.io/javascript-task1/
+Demo - https://omarovfrontend.github.io/javascript-task1/
